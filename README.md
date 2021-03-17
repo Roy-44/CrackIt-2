@@ -11,7 +11,9 @@ Instructions:
 3. Run "make" command.
 
 4. There are two ways to use the app:
-	a. Run "sudo ./launcher.out <num-of-decrypters> -n <decrypter-number-of-rounds>".		
+
+	a. Run "sudo ./launcher.out <num-of-decrypters> -n <decrypter-number-of-rounds>".
+	
 	b. Run manually the server using the command "sudo ./server.out" and then the decrypters using the command "./decrypter.out <decrypter-id> -n <decrypter-number-of-rounds>".
 
 	* The flag "-n" and his value are optional.
